@@ -3,7 +3,7 @@ title: "Home"
 seo_title: "Science Working Group"
 headline: "Science Working Group"
 description: "The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable."
-tagline: The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable."
+tagline: The Science Working Group (SWG) works to solve the problems of making science software inter-operable and interchangeable.
 hide_page_title: true
 hide_sidebar: true
 hide_breadcrumb: true
